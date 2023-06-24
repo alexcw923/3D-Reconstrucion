@@ -1,0 +1,9 @@
+/calib_jpg_u
+/couple
+/manny
+/teapot
+*.pickle
+
+
+
+__pycache__
