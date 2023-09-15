@@ -28,5 +28,8 @@ To reconstruct the object with the calibrated cameras, use the following command
 python reconstruct.py
 ```
 
+### Project Report
+
+The project report (<a href="https://docs.google.com/document/d/1Dv1k2XWzyDTecXMBIkw8ln1hNitZXzzb_82CdRdKNrw/edit?usp=sharing">link</a>) includes detailed pipeline explanations and project reflections. 
 
 
